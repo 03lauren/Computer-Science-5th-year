@@ -1,0 +1,40 @@
+# #Q1
+# for i in range(0,20,2):
+#     print(i)
+
+# #Q2
+# while i  <50:
+#     print(i)
+# for i in range(1,50):
+#     print(i)
+
+# #Q3
+# name = input("Enter your name:")
+# for i in range(name,1,2):
+#     print(i)
+    
+    
+#Q4
+print("Welcome to your library account")
+
+username = input("Enter your username:") # I asked user to enter there name
+password = int(input("Enter your password:")) # I asked user to enter there password
+if username not username:
+    print(re-name)
+options = input("Pick option1 Return a book, option2 Borrow a book, option3 Exit") #Showing the user his or her optios
+option1 = ("Return a book")
+option2 = ("Borrow a book")
+option3 = ("Exit")
+if option1:
+    books = int(input)("How many books do you want to return?"):
+        if books<1:
+            day = int(input("How many number of days late each book was"))
+            print("Every day late your book or books were there is a £2.50 fineRate")
+print("If the total number of late days is more than 15, you will apply to a 20% discount to the taotal fine")
+fine =(books+day)# yoy are adding how much books and days you have all togther
+print(fine) # the nuumber and books and days you added will be found out on how much the fine is now 
+discount = (20%)
+for i in range(1,15):# thsi how much books it over 15
+    print (1)
+print("The total fine needed for the user to pay in a suitable format")
+
